@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Calibri";
+}
+
+.main {
+  display: flex;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  padding: 0 0 10px 0;
+  margin: 0;
+}
+
+.loading {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: #f2f2f2;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  width: 99.8%;
+  display: block;
+  height: 20px;
+  margin-bottom: 15px;
+}
+
+.noResults {
+  text-align: center;
+}
+
+.newsList {
+  width: 100%;
+}

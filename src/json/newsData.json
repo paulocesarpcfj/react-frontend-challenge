@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Clone the project",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque tincidunt consectetur. Vivamus vitae condimentum erat. In in pellentesque est.",
+        "author": "Administrator",
+        "dateCreated": "2018-07-05T14:29:06.720Z"
+    },
+    {
+        "id": 2,
+        "title": "Go to the project folder",
+        "content": "Duis facilisis vestibulum tortor. Cras nec nibh a tellus placerat malesuada quis gravida lorem. Aenean sed sem ac velit iaculis pretium.",
+        "author": "Administrator",
+        "dateCreated": "2018-07-04T14:29:06.720Z"
+    },
+    {
+        "id": 3,
+        "title": "Install dependencies",
+        "content": "Aliquam fringilla condimentum felis, ac venenatis lacus elementum id. Suspendisse vestibulum arcu non vehicula mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "author": "John Doe",
+        "dateCreated": "2018-07-03T14:29:06.720Z"
+    },
+    {
+        "id": 4,
+        "title": "Fix the bugs",
+        "content": "Mauris non vulputate ex, nec aliquet erat. Vestibulum aliquet suscipit sapien.",
+        "author": "Administrator",
+        "dateCreated": "2018-07-02T14:29:06.720Z"
+    },
+    {
+        "id": 5,
+        "title": "Implement the layout",
+        "content": "Quisque vitae metus maximus turpis viverra consequat vel tristique massa. Maecenas iaculis interdum lacinia. Nam pharetra lacus nunc. Sed nulla tellus, elementum ac rutrum eu, viverra at turpis.",
+        "author": "Administrator",
+        "dateCreated": "2018-07-01T14:29:06.720Z"
+    },
+    {
+        "id": 6,
+        "title": "Filter the results",
+        "content": "In pellentesque arcu at ipsum facilisis aliquet. Nunc blandit rhoncus neque et euismod. Donec vitae euismod dui, eget posuere lorem.",
+        "author": "John Doe",
+        "dateCreated": "2018-07-08T14:29:06.720Z"
+    }
+]
